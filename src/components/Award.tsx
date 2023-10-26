@@ -4,7 +4,7 @@ import React from 'react';
 export default function Award() {
   return (
     <div>
-      <section className='flex flex-col md:flex-row justify-evenly gap-2 items-center align-center border-t-4 p-4 mx-auto'>
+      <section className='flex flex-col md:flex-row justify-evenly gap-2 items-center align-center border-t-4 p-5 mx-auto my-4'>
         <article className='p-3 text-center '>
           <h1 className='text-2xl md:text-4xl font-bold p-2 uppercase'>Travelers Choice Best of the Best</h1>
           <p className='text-center text-wrap'>Our top 5% of places, stays, eats, and experiences—decided by you.</p>

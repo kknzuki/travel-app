@@ -2,9 +2,11 @@ import Image from 'next/image';
 import React from 'react';
 import { FcRating } from 'react-icons/fc';
 
+
 function Hero() {
   return (
     <section className='p-5 grid md:grid-cols-2 gap-4 mx-auto text-center bg-gradient-to-r from-indigo-300'>
+     
       {/* left side */}
       <article className='gap-4'>
         <h1 className='text-3xl font-bold uppercase my-4'>
